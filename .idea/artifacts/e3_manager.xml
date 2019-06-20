@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="e3-manager">
+    <output-path>$PROJECT_DIR$/e3manager/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>e3manager</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="e3-manager.war">
+      <element id="artifact" artifact-name="e3manager:war exploded" />
+    </root>
+  </artifact>
+</component>

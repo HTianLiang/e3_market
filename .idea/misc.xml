@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/e3-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/e3common" />
+    <file type="web" url="file://$PROJECT_DIR$/e3manager" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/e3parent/pom.xml" />
+        <option value="$PROJECT_DIR$/e3common/pom.xml" />
+        <option value="$PROJECT_DIR$/e3manager/pom.xml" />
+        <option value="$PROJECT_DIR$/e3manager/e3-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-manager-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>SQL</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>MysqlParsingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://code.alibabatech.com/schema/dubbo/dubbo.xsd" location="E:/文件/手册&amp;jar包/jar包/dubbo.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_10" project-jdk-name="10" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
